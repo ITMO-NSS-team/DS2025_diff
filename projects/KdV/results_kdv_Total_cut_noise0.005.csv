@@ -1,0 +1,143 @@
+Term,Coefficient
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,0.16766270952889797
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+du/dx0,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-0.013229309500264822
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-0.07620235858631083
+du/dx0,-1.0
+d^3u/dx1^3,1.1411791876495452
+u * du/dx1 or du/dx1 * u,-0.0013010448571042683
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,0.011646675790505065
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-0.4968128992320817
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-0.013229309500264973
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+d^3u/dx1^3,1.172604803454049
+u * du/dx1 or du/dx1 * u,0.00014433264730719211
+du/dx0,-0.009697256831171822
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-0.3557523371555579
+u * du/dx1 or du/dx1 * u,-0.0019466685805251723
+du/dx0,0.14447739146962285
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-0.07724964632693533
+du/dx0,0.009037927664249004
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+du/dx0,-1.0
+du/dx0,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
+u * du/dx1 or du/dx1 * u,-1.0
