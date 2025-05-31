@@ -1,4 +1,4 @@
-# UAI_diff
+# DS2025_diff
 The repository consists of several files that can be used to evaluate the contribution of different differentiation methods to the search for equations using EPDE. 
 Each folder contains all the necessary files for 
 1) Generating data for each equation with the addition of different noise levels. In total, the following equations are proposed: Wave equation, KdV equation, Laplace equation, Burgers equation, and ODE equation;
