@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Jupyter Notebook",
+            "type": "python",
+            "request": "launch",
+            "program": "-m",
+            "args": [
+                "ipykernel_launcher",
+                "-f",
+                "${file}"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
